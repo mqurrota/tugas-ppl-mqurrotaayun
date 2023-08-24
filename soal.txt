@@ -1,0 +1,9 @@
+1. Sistem apa yang anda kembangkan pada mata kuliah ini?
+Jawab: Aplikasi Web Perancangan Sistem Informasi Pariwisata Bandar Lampung
+
+2. Apa tujuan anda mengembangkan sistem tersebut?
+Jawab: 
+Tujuan mengembangkan sistem informasi pariwisata untuk Bandar Lampung adalah untuk mempromosikan destinasi pariwisata, meningkatkan kunjungan wisatawan, memberikan informasi lengkap tentang atraksi dan layanan, memudahkan pemesanan, mengumpulkan data analitik, dan mendorong inovasi dalam industri pariwisata. Sistem ini juga bertujuan untuk memfasilitasi pengelolaan acara, interaksi dengan pengguna, edukasi, dan kolaborasi dengan pemangku kepentingan. Tujuannya adalah untuk meningkatkan daya tarik Bandar Lampung sebagai tujuan wisata dan memperbaiki pengalaman pengunjung.
+
+3. Apa harapan yang ingin anda dapatkan dari user ketika menggunakan sistem yang anda kembangkan?
+Jawab: Pengguna berharap sistem web Perancangan Sistem Informasi Pariwisata Bandar Lampung menyediakan informasi lengkap dan akurat tentang atraksi, pemesanan yang mudah, panduan interaktif, ulasan dan rekomendasi, serta antarmuka responsif dan aman. Mereka juga mengharapkan informasi tentang acara, budaya, dan dukungan pelanggan yang tersedia. Tujuan utamanya adalah untuk mendapatkan pengalaman yang informatif, efisien, dan memuaskan saat merencanakan dan menjalani perjalanan wisata.
