@@ -1,0 +1,33 @@
+Salah satu metode pengujian perangkat lunak yang penting adalah Pengujian Fungsional . Ini adalah metode yang digunakan untuk
+
+Pengujian Fungsional:
+
+Deskripsi: 
+Pengujian fungsional terpenuhi
+
+Proses:
+
+Identifikasi Fungsi atau Fitur : Tahap awal adalah identifikasi fungsi atau fitur-fitur yang akan diuji. Ini melibatkan analisis dokumen spesifikasi dan kebutuhan perangkat lunak.
+
+Perancangan Kasus Uji : Setelah fungsi atau fit
+
+Pelaksanaan Pengujian : Pada tahap ini, pengujian sebenarnya dil
+
+Pencatatan Hasil : Setiap hasil pengujian dicatat, termasuk masalah atau bug yang ditem
+
+Pelaporan : Hasil pengujian dan temuan dib
+
+Verifikasi : Setelah perubahan per
+
+Manfaat:
+
+menolak bahwa perangkat lunak ber
+Mendeteksi bug atau masalah dalam fungsi atau fitur
+memast
+Menyediakan dokumentasi yang berguna
+Pengujian fungsional adalah salah
+
+
+
+
+
